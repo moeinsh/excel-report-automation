@@ -20,3 +20,9 @@ python clean_report.py
 
 This is a demonstration sample showing my automation workflow.
 No client, no fake data.
+
+---
+
+**Author:** Moein Shahidi — [@moeinsh](https://github.com/moeinsh)
+
+© 2026 Moein Shahidi. Released under the MIT License.
